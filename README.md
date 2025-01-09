@@ -8,7 +8,7 @@
 
 ## Backup of Old Project (June 2023)
 
-This is a backup of an old project that was focused on object detection. The project was based on the following tutorials:
+This is a backup of an old project that focused on object detection and tracking over videos using **YOLOv8**. The project was based on the following tutorials:
 
 - [Murtaza's Workshop - Robotics and AI's Object Detection Tutorial](https://www.youtube.com/watch?v=WgPbbWmnXJ8&ab_channel=Murtaza%27sWorkshop-RoboticsandAI)
 - [Computer Vision Zone's Object Detection Course](https://www.computervision.zone/courses/object-detection-course/)
